@@ -23,7 +23,7 @@ Features:
 Links
 * [Browser](http://epigenomegateway.wustl.edu/browser/)
 * [Manuscript]
-* [Documentation](https://epigenomegateway.readthedocs.io/en/latest/)
+* [Documentation](https://eg.readthedocs.io/en/latest/)
 * [Source code](https://github.com/lidaof/eg-react)
 
 ### Special mention: dynseq tracks
