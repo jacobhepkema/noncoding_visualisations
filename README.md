@@ -15,10 +15,16 @@ Links
 * (Manuscript in preparation)
 * [Source code and documentation](https://github.com/meuleman/epilogos)
 
-### WashU Epigenome browser
+### [WashU Epigenome browser](http://epigenomegateway.wustl.edu/browser/)
 
 Features:
 [add]
+
+Links
+* [Browser](http://epigenomegateway.wustl.edu/browser/)
+* [Manuscript]
+* [Documentation](https://epigenomegateway.readthedocs.io/en/latest/)
+* [Source code](https://github.com/lidaof/eg-react)
 
 ### Special mention: dynseq tracks
 
@@ -29,7 +35,8 @@ Features:
 ### Logomaker (python)
 
 Features:
-* Visualise sequence logos
+* Visualise sequence logos, renders as vector graphics
+* Integrates with matplotlib axes
 * Customise [add]
 * [add]
 
