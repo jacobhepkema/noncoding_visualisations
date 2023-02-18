@@ -22,7 +22,7 @@ Features:
 
 Links
 * [Browser](http://epigenomegateway.wustl.edu/browser/)
-* [Manuscript]
+* [Manuscript](https://doi.org/10.1093/nar/gkac238) (there are more manuscripts for different updates)
 * [Documentation](https://eg.readthedocs.io/en/latest/)
 * [Source code](https://github.com/lidaof/eg-react)
 
